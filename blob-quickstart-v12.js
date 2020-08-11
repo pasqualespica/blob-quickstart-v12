@@ -1,5 +1,5 @@
 /*
-    docs.microsoft.com/it-it/azure/storage/blobs/storage-quickstart-blobs-nodejs
+    https://docs.microsoft.com/it-it/azure/storage/blobs/storage-quickstart-blobs-nodejs
 */
 
 const { BlobServiceClient } = require("@azure/storage-blob");

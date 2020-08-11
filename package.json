@@ -1,0 +1,26 @@
+{
+  "name": "blob-quickstart-v12",
+  "version": "1.0.0",
+  "description": "Use the @azure/storage-blob SDK version 12 to interact with Azure Blob storage",
+  "main": "blob-quickstart-v12.js",
+  "scripts": {
+    "start": "node blob-quickstart-v12.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasqualespica/blob-quickstart-v12.git"
+  },
+  "author": "pasquale spica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pasqualespica/blob-quickstart-v12/issues"
+  },
+  "homepage": "https://github.com/pasqualespica/blob-quickstart-v12#readme",
+  "dependencies": {
+    "@azure/storage-blob": "^12.0.0",
+    "@types/dotenv": "^4.0.3",
+    "csv-reader": "^1.0.6",
+    "dotenv": "^6.0.0",
+    "uuid": "^8.3.0"
+  }
+}
